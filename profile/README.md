@@ -1,7 +1,7 @@
 # Хакатон [MietHack](http://miethack.ru) 28.05.22 
 
 ## Кейс от [GameInn](https://gameinn.co)
-[PDF](https://github.com/hackathon-28-05-2022/.github/files/8873753/GaneInn.pdf)
+[PDF](/profile/GameInn.pdf)
 
 ## Решение
 ![Хакатон Котята-01](https://user-images.githubusercontent.com/88846445/172939984-66e2f091-7ce6-4d8d-bd51-fd7a467c29d8.png)
